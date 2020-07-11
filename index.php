@@ -153,12 +153,14 @@ table {border-collapse: collapse;border: 1px solid black;width:620px;}
 	</td>
 	<td valign="top" align="right" style="width:50%;">
 	<?=ShowKeys();?>
+	<br><br>
+	<input type=button value ='ADIF Report' onclick="window.location.href='adif_form.php'"></button>
+	<br><br>
+	<input type=button value ='Setup' onclick="window.location.href='setup.php'"></button>
 	</td>
 </tr>
 </table>
-<div id="last">
-
-</div>
+<div id="last"></div>
 </body>
 
 <?php

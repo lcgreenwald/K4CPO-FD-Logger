@@ -1,5 +1,5 @@
 sudo apt-get install -y php7.3 mariadb-server phpmyadmin
-git clone https://github.com/km4ack/K4CPO-FD-Logger.git
+git clone https://github.com/lcgreenwald/K4CPO-FD-Logger.git
 cd K4CPO-FD-Logger
 rm adif_log.txt
 nano setup

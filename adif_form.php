@@ -13,3 +13,5 @@ foreach($contest as $key=>$val){
 ?>
 </table><br>
 <input type=submit value='Submit Form'>
+<br><br>
+<input type=button value ='Back to Index' onclick="window.location.href='index.php'"></button>

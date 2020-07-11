@@ -2,8 +2,8 @@
 /* enter your mysql info here */
 
 define("DATABASEHOST","localhost"); // if on the same pi localhost works
-define("DATABASEUSER","USERNAME");          // user name for MySql
-define("DATABASEPASS","PASSWORD");          // password for MySql
+define("DATABASEUSER","WB0SIO");          // user name for MySql
+define("DATABASEPASS","wa2mno");          // password for MySql
 
 
 define("DATABASE","fieldday");

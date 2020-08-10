@@ -99,7 +99,7 @@ function GetDates()
 	<input id=sat type=date name=sat value='".$ret[0]['sat']."'><br>
 	<input id=sun type=date name=sun value='".$ret[0]['sun']."'><br>
 	<input type=hidden name=type value=settings>
-	<input type=submit name=submitie value=\"Update Field Year & Dates\"> </form>
+	<input type=submit name=submitie value=\"Update Field Day Year & Dates\"> </form>
 	";
 
     return $line;

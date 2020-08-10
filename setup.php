@@ -41,7 +41,7 @@ ul {
 </head>
 <body>
 <div id="header"><h1><?=TITLE ;?> Setup</h1></div>
-<div id="nav"><h2>Navagation</h2>
+<div id="nav"><h2>Navigation</h2>
 	<ul>
 		<!--<li><a id=w href=# onclick="javascript:ajaxpage('generalsetup.php', 'section');">General Setup</a></li> -->
 		<li><a id=w href=# onclick="javascript:ajaxpage('bands.php', 'section');">Bands</a></li>

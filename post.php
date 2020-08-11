@@ -45,7 +45,7 @@ if (isset($type)){
             break;
         case "settings":
             switch ($submitie){
-                case "Update Field Day Year and Dates":
+                case "Update Field Day Year & Dates":
                     $mysqldb->mysqlquery("update " . DATABASE . ".settings set year='" . $year . "', sat='" . $sat . "', sun='" . $sun . "' ");
                     break;
             }
